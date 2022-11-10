@@ -17,3 +17,4 @@ As a developer creating a database that delivers a consitient up-to-date blog si
 N/A
 
 ## Licenses
+Copyright https://github.com/MariaYConstanza/tech-blog All Rights Reserved
